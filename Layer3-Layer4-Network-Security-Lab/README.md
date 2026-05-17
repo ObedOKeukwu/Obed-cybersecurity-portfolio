@@ -3,22 +3,23 @@
 This project demonstrates VLAN segmentation, firewall policy configuration, DHCP services, NAT configuration, IP spoofing attacks, and mitigation techniques using FortiGate firewall technologies within a controlled Cisco Modeling Labs (CML) environment.
 
 # Tools Used #
-FortiGate Firewall
-Cisco Modeling Labs (CML)
-Kali Linux
-Windows 10/11
-Wireshark
-Hyper-V
+FortiGate Firewall, 
+Cisco Modeling Labs (CML),
+Kali Linux,
+Windows 10/11,
+Wireshark,
+Hyper-V,
+VMware.
 
 # Skills Demonstrated #
-VLAN Configuration
-Firewall Policy Management
-NAT Configuration
-Packet Analysis
-Threat Detection
-IP Spoofing Mitigation
-Network Segmentation
-Security Documentation
+VLAN Configuration,
+Firewall Policy Management,
+NAT Configuration,
+Packet Analysis,
+Threat Detection,
+IP Spoofing Mitigation,
+Network Segmentation,
+Security Documentation.
 
 # Outcome #
 
