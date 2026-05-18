@@ -2,7 +2,7 @@
 
 ## Objective
 
-Demonstrate SIEM-based security monitoring and event analysis using Splunk Enterprise within a virtualized lab environment.
+Demonstrated SIEM-based security monitoring and event analysis using Splunk Enterprise within a virtualized lab environment.
 
 ## Tools Used
 
