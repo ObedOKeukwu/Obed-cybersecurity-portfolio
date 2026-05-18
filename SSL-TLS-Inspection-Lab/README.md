@@ -2,7 +2,7 @@
 
 ## Objective
 
-Demonstrate SSL/TLS inspection within a controlled virtual environment by configuring firewall-based HTTPS inspection, installing trusted certificates, and analyzing encrypted traffic using Wireshark.
+Demonstrated SSL/TLS inspection within a controlled virtual environment by configuring firewall-based HTTPS inspection, installing trusted certificates, and analyzing encrypted traffic using Wireshark.
 
 ## Tools Used
 
