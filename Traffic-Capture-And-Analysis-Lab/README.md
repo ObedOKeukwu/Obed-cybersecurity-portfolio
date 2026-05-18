@@ -2,7 +2,7 @@
 
 ## Objective
 
-Demonstrate VLAN segmentation, inter-VLAN routing, SPAN traffic mirroring, and packet analysis using Wireshark within a controlled Cisco Modeling Labs (CML) environment.
+Demonstrated VLAN segmentation, inter-VLAN routing, SPAN traffic mirroring, and packet analysis using Wireshark within a controlled Cisco Modeling Labs (CML) environment.
 
 ## Tools Used
 
