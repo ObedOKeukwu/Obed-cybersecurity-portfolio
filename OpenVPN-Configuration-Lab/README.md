@@ -2,7 +2,7 @@
 
 ## Objective
 
-Demonstrate the configuration and validation of a secure VPN connection using OpenVPN within a controlled virtual lab environment.
+Demonstrated the configuration and validation of a secure VPN connection using OpenVPN within a controlled virtual lab environment.
 
 ## Tools Used
 
