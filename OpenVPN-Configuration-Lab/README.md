@@ -10,7 +10,7 @@ Demonstrated the configuration and validation of a secure VPN connection using O
 * Windows Client
 * Virtual Machines
 * Hyper-V / VMware
-* Wireshark (Optional)
+* Wireshark 
 
 ## Skills Demonstrated
 
